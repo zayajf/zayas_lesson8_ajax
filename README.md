@@ -13,7 +13,7 @@ Jonathon Zayas
 This lesson uses an APi,Ajax, and JSON-formatted Data to build an application
 
 ### View Project:
-https://zayajf.github.io/lesson8_ajax/
+https://zayajf.github.io/zayas_lesson8_ajax/.
 
 ### Lessons Learned in the Assignment:
 1. Learned how to utilize ajax
